@@ -1,0 +1,9 @@
+итого 28K
+drwxrwxr-x  3 nastya nastya 4,0K фев 10 23:41 ./
+drwxr-xr-x 16 nastya nastya 4,0K фев 10 23:21 ../
+-rw-rw-r--  1 nastya nastya  707 фев 10 23:39 config.txt
+-rw-rw-r--  1 nastya nastya  171 фев 10 23:24 first.txt
+drwxrwxr-x  8 nastya nastya 4,0K фев 10 23:40 .git/
+-rw-rw-r--  1 nastya nastya    0 фев 10 23:41 ls.txt
+-rw-rw-r--  1 nastya nastya   15 фев 10 23:22 README.md
+-rw-rw-r--  1 nastya nastya  408 фев 10 23:24 status.txt
