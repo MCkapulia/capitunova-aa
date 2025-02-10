@@ -1,0 +1,14 @@
+file:/home/nastya/.gitconfig	user.email=a.capitunova@yandex.ru
+file:/home/nastya/.gitconfig	user.name=MCkapulia
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=true
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	remote.origin.url=https://github.com/MCkapulia/capitunova-aa.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+file:.git/config	branch.first.remote=origin
+file:.git/config	branch.first.merge=refs/heads/first
+file:.git/config	user.name=MCkapulia
+file:.git/config	user.email=a.capitunova@yandex.ru
